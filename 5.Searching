@@ -1,0 +1,56 @@
+Sequential Search
+  Simplest implementation and is implemented as a basic construct in many programming languages
+  I/O
+  Input: nonempty collection A, and element t.
+  Output: true if t in A, false otherwise
+  
+  
+  
+  Context
+  
+  Solution
+  
+  Analysis
+
+Binary Search
+  Use when the collection is an array that doesno'y change and your want to conserve meomry
+  I/O
+  
+  Context
+  
+  Solution
+  
+  Analysis
+
+Hash-Based Search
+  if the element in the collection change frequently
+  Ability to spread out the costs associated with maitaining their data structures
+  I/O
+  
+  Context
+  
+  Solution
+  
+  Analysis
+
+
+Bloom filter
+  I/O
+  
+  Context
+  
+  Solution
+  
+  Analysis
+
+Binary Search Tree
+  when you need dynamic membership and 
+  the ability to process elements in the collection in sorted order
+  I/O
+  
+  Context
+  
+  Solution
+  
+  Analysis
+
